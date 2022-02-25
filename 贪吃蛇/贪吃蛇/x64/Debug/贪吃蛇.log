@@ -1,0 +1,7 @@
+﻿  Home.cpp
+D:\vs2022\贪吃蛇\贪吃蛇\Home.cpp(17,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+D:\vs2022\贪吃蛇\贪吃蛇\main.cpp(1284,13): warning C4018: “>”: 有符号/无符号不匹配
+  BGM.cpp
+  正在生成代码...
+  贪吃蛇.vcxproj -> D:\vs2022\贪吃蛇\x64\Debug\贪吃蛇.exe
