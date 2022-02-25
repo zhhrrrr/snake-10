@@ -3,35 +3,23 @@
 #### 介绍
 用C语言编写的贪吃蛇项目（多模式，菜单可交互，实现了排行榜系统）
 
-#### 软件架构
-软件架构说明
-
-
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+解压Zhr Gluttonous Snake.zip安装
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+正常运行需c运行器
 
-#### 参与贡献
+#### 项目思路
+1.项目目标：
+  熟悉graphics库
+  熟悉C语言语法
+  熟悉项目开发流程
+2.实现主要灵活运用graphics库进行图形编程
+3.基本要素：
+  窗口，BGM，背景，墙，方向，蛇，食物
+4.实现功能：
+  交互菜单，排行榜，多模式（1.单人  2.双人---胜利条件判断，同时录入多个方向键  3.乱战---简单避障算法的实现，电脑自动控制蛇的实现）
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+******代码带更优化，功能还可拓展******
